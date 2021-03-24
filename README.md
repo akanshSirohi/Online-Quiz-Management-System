@@ -1,4 +1,4 @@
-# Online-Quiz-Management-System
+# Online Quiz Management System
 PHP (CodeIgnitor) based online quiz management system details
 
 Online Quiz Management System is CodeIgniter based web application, it has 3 different panels i.e. Admin Panel, Faculty Panel, Student Panel. Student can only give online quiz and faculty can do multiple things and permissions of faculty can be managed through admin. Admin is super user that can manage whole system accordingly. Some highlighted features of this system as follows:
